@@ -21,7 +21,7 @@ https://archive.ics.uci.edu/dataset/502/online+retail+ii
 ![Monthly retention](images/monthly_retention.png)
 
 ## Удержание по когортам
-![Cohort revenue](images/cohort_revenue.png)
+![Cohort revenue](images/cohort_revenue_2.png)
 
 ## RFM-сегментация
 ![RFM segments](images/rfm_segments.png)
